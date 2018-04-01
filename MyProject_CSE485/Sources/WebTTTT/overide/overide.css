@@ -1,0 +1,144 @@
+*{margin: 0; border: 0; padding: 0;}
+.wapper{
+	width: 1300px;
+	margin: auto;
+	background: white;
+	height: 1200px;
+}
+
+.header 
+{
+	color: violet;
+	margin: 0;
+	width: 100%;
+	height: 50px;
+}
+.header img{
+	width: 100%;
+	height: 50px;
+}
+.content{
+	margin-top: 20px;
+	background-color: white;
+	width: 100%;
+	height: 1000px;
+}
+.contentNoidung1{
+	background-color: white;
+	width: 100%;
+	height: 300px;
+}
+.contentLeft{
+	margin-right: 10px;
+	background-color: #ff6600;
+	width: 250px;
+	height: 150px;
+}
+.contentCenter{
+	margin-right: 5px;
+	width: 130px;
+	height: 300px;
+}
+.contentCenter img{
+	margin-right: 5px;
+	width: 130px;
+	height: 300px;
+}
+.contentRight{
+	background-color: white;
+	width: 900px;
+	height: 300px;
+}
+.video1{
+	background-color: #ff6600;
+	width: 250px;
+	height: 150px;
+}
+.video2{
+	background-color: #ff6600;
+	width: 250px;
+	height: 150px;
+}
+
+.contentBot{
+	width: 900px;
+	height: 100px;
+}
+.contentNoidung2{
+	margin-top: 20px;
+	width: 100%;
+	height: 650px;
+	background-color: white;
+}
+
+.contentTieudiem{
+	background-color: white;
+	width: 100%;
+	height: 300px;
+}
+
+.thuvienanh{
+	margin-top: 20px;
+	width: 100%;
+	height: 650px;
+}
+
+.bongda{
+	width: 100%;
+	height: 650px;
+}
+
+.bongro{
+	width: 100%;
+	height: 650px;
+}
+
+.tennis{
+	width: 100%;
+	height: 650px;
+}
+
+.menu ul 
+{
+	border: solid white;
+	width: 100%;
+	height: 35px;
+	background-color: #ff6600;
+}
+
+.menu ul li
+{
+	margin: 10px 0 0 0;
+	float: left;
+	list-style: none;
+	border-right: solid 1px #fff;
+}
+
+
+.menu ul li a
+{	font-style: bold;
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+
+}
+
+.clear{
+	clear: both;
+}
+.footer{
+	width: 100%;
+	height: 150px;
+	padding: 5px;
+	background-color: #ff6600;
+}
+.tieude{
+	font-style: italic;
+	width: 100%;
+	height: 30px;
+}
+.footerNoidung{
+	width: 100%;
+	height: 120px;
+}
+
